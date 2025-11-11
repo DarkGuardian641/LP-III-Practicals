@@ -1,0 +1,29 @@
+Q. Installation of MetaMask and Study of Spending Ether per Transaction
+
+Steps:
+1. Go to https://metamask.io
+2. Click on "Get MetaMask"
+3. Choose "Add Extension to Chrome" (or your preferred browser)
+4. Once installed, click on the MetaMask icon in your browser toolbar
+5. Click "Get Started" → "Create a New Wallet"
+6. Follow on-screen instructions to set up your wallet
+7. Create a strong password
+8. Securely store your Secret Recovery Phrase (Seed Phrase)
+9. Your MetaMask Wallet is now created successfully
+
+Q. To study Ether spending per transaction:
+1. Click on your wallet account
+2. Go to "Networks" → Turn on "Show Test Networks"
+3. Select "Sepolia Test Network"
+4. Open a new browser tab → Search for "Sepolia Faucet Google Cloud"
+5. Paste your wallet’s Public Address in the faucet input box
+6. Click "Receive" or "Request Funds"
+7. Your wallet will now receive 0.05 SepoliaETH
+8. Go back to MetaMask and confirm the balance
+9. Perform a small transaction (send Ether to another account)
+10. After the transaction, open Activity → Transaction Details
+
+Study and note down:
+1. Gas Limit
+2. Gas Price
+3. Total Fee (ETH spent per transaction)

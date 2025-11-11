@@ -1,0 +1,14 @@
+Q. Getting Test ETH:
+
+1. Open MetaMask and go to Networks settings.
+2. Enable "Show test networks".
+3. Select Sepolia test network.
+4. Visit a Sepolia faucet (e.g., Google Cloud Faucet).
+5. Paste your wallet's public address.
+6. Click "Receive" to claim 0.05 SepoliaETH.
+
+Q. Testing Transactions:
+1. Create a second account in MetaMask.
+2. Send SepoliaETH from your first account to the second.
+3. Review transaction details: gas limit, gas price, and total cost.
+4. Check the transaction history for confirmation.
